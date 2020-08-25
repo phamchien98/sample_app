@@ -3,6 +3,7 @@ en:
     application:
       english: English
       vietnamese: Vietnamese
+      suffix_title: Ruby on Rails Tutorial Sample App
   static_pages:
     home:
       home_title: Home
