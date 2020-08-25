@@ -1,0 +1,27 @@
+vi:
+  layouts:
+    application:
+      english: Tiếng anh
+      vietnamese: Tiếng việt
+  static_pages:
+    home:
+      home_title: Home
+      heading: Home
+      description_title: This is the home page for the
+      description_detail: sample application of
+      ruby_on_rails_tut: Ruby on Rails Tutorial
+    help:
+      help_title: Help
+      heading: Help
+      description_title: Ruby on Rails Tutorial Sample App
+      description_detail: To get help on this Sample App
+    about:
+      about_title: About
+      heading: About
+      about_description_series: This is Rails Tutorial
+      about_description_title: Chien learn rails
+      description_title: Ruby on Rails Tutorial
+      about_description_tutorial: Description Tutorial
+      about_description_book: Rails Book
+      about_description_ror: Ruby on Rails more
+      about_description_end: By PhamChien
