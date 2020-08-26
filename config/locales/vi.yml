@@ -1,8 +1,8 @@
 vi:
   layouts:
     application:
-      english: Tiếng anh
-      vietnamese: Tiếng việt
+      english: Anh
+      vietnamese: Việt
   static_pages:
     home:
       home_title: Home

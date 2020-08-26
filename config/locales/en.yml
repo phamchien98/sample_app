@@ -1,9 +1,21 @@
 en:
   layouts:
     application:
-      english: English
-      vietnamese: Vietnamese
+      english: En
+      vietnamese: Vi
       suffix_title: Ruby on Rails Tutorial Sample App
+    header:
+      english: En
+      vietnamese: Vi
+      home_header: Home
+      help_header: Help
+      about_header: About
+    footer:
+      english: En
+      vietnamese: Vi
+      about_footer: About
+      contact_footer: Contact
+      new_footer: New
   static_pages:
     home:
       home_title: Home
@@ -11,6 +23,7 @@ en:
       description_title: This is the home page for the
       description_detail: sample application of
       ruby_on_rails_tut: Ruby on Rails Tutorial
+      sign_up_button: SignUp Now!
     help:
       help_title: Help
       heading: Help
@@ -26,3 +39,8 @@ en:
       about_description_book: Rails Book
       about_description_ror: Ruby on Rails more
       about_description_end: By PhamChien
+  users:
+    new:
+      signup_title: SignUp Now!
+      heading: SignUp
+      description_title: SignUp with new user

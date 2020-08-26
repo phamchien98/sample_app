@@ -6,3 +6,6 @@ links:
     screencasts_page: "https://screencasts.railstutorial.org/"
     contact_page: https://www.railstutorial.org/contact
   learn_enough: "https://www.learnenough.com/"
+static_pages:
+  home:
+    image_size: 200px
