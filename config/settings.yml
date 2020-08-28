@@ -5,6 +5,7 @@ links:
     book_page: "https://www.railstutorial.org/book"
     screencasts_page: "https://screencasts.railstutorial.org/"
     contact_page: https://www.railstutorial.org/contact
+    gravartar: https://secure.gravatar.com/avatar/
   learn_enough: "https://www.learnenough.com/"
 static_pages:
   home:
