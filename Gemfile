@@ -14,6 +14,7 @@ gem "puma", "~> 4.1"
 gem "rails", "~> 6.0.3", ">= 6.0.3.2"
 gem "rails-i18n", "~> 6.0.0"
 gem "sass-rails", ">= 6"
+gem "sprockets-rails", :require => "sprockets/railtie"
 gem "turbolinks", "~> 5"
 gem "webpacker", "~> 4.0"
 

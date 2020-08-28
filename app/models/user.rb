@@ -1,5 +1,5 @@
 class User < ApplicationRecord
-  before_save :email_downcase
+  USER_PARAMS = %i(name email password password_confirmation).freeze
 
   validates :name, presence: true,
     length: {maximum: Settings.validations.name.max_length}
@@ -14,6 +14,7 @@ class User < ApplicationRecord
 
   has_secure_password
 
+  before_save :email_downcase
 
   private
 
