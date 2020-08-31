@@ -10,12 +10,23 @@ en:
       home_header: Home
       help_header: Help
       about_header: About
+      login_header: Login
+      logout_header: Logout
     footer:
       english: En
       vietnamese: Vi
       about_footer: About
       contact_footer: Contact
       new_footer: New
+  sessions:
+    new:
+      login_title: login
+      heading: Login
+      email_login: Email
+      password_login: Password
+      sessions_create: Login
+      new_user: New User?
+      signup_now: Sign Up!
   static_pages:
     home:
       home_title: Home
