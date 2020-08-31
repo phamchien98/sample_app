@@ -5,6 +5,7 @@ class SessionsController < ApplicationController
     user = User.find_by email: params[:sessions][:email].downcase
     if user&.authenticate params[:sessions][:password]
       log_in user
+      remember user
       flash[:success] = t ".success_mess"
       redirect_to user_path user
     else

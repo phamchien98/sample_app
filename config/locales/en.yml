@@ -27,6 +27,7 @@ en:
       sessions_create: Login
       new_user: New User?
       signup_now: Sign Up!
+      remember_me: Remember me
   static_pages:
     home:
       home_title: Home
